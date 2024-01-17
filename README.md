@@ -5,5 +5,5 @@ Criada implementação em java para fazer o processo de ETL de dados de escolas/
 ![Data-Warehouse-Arquitecture](/blob/data-warehouse-architecture.png)
 
 ## Trabalho completo sobre o tema
-[Link para o arquivo do trabalho em pdf](/src/main/resources/pdf/trabalho-prático-docx.pdf)
+[Link para o arquivo do trabalho em pdf](/src/main/resources/pdf/trabalho-prático.docx.pdf)
 
